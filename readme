@@ -1,0 +1,6 @@
+Ecommerce Purchases Data Analysis
+This project explores and analyzes an ecommerce dataset using Python and Pandas. The dataset contains information such as IP addresses, job titles, purchase prices, and more. The analysis includes basic data exploration, filtering by specific criteria (e.g., job titles or credit card providers), and calculating statistics like the maximum purchase price.
+
+The dataset is in Ecommerce Purchases.csv, which is extracted from the Ecommerce Purchases.zip file. The project aims to showcase fundamental data analysis tasks, such as checking for missing values, filtering data, and summarizing key statistics.
+
+To run the project, ensure you have Python 3.x and Pandas installed. After extracting the ZIP file, run the script to perform the analysis.
